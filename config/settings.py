@@ -122,6 +122,7 @@ STATIC_ROOT = BASE_DIR/'/static'
 MEDIA_URL = BASE_DIR/'/media'
 STATICFILES_DIR =[
     BASE_DIR/'static',
+    BASE_DIR/'media',
 ]
 
 # Default primary key field type
